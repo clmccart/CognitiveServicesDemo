@@ -1,8 +1,0 @@
-C:\Users\t-clmcca\Documents\dotnetporjects\bin\Debug\netcoreapp1.1\dotnetporjects.deps.json
-C:\Users\t-clmcca\Documents\dotnetporjects\bin\Debug\netcoreapp1.1\dotnetporjects.runtimeconfig.json
-C:\Users\t-clmcca\Documents\dotnetporjects\bin\Debug\netcoreapp1.1\dotnetporjects.runtimeconfig.dev.json
-C:\Users\t-clmcca\Documents\dotnetporjects\bin\Debug\netcoreapp1.1\dotnetporjects.dll
-C:\Users\t-clmcca\Documents\dotnetporjects\bin\Debug\netcoreapp1.1\dotnetporjects.pdb
-C:\Users\t-clmcca\Documents\dotnetporjects\obj\Debug\netcoreapp1.1\dotnetporjects.AssemblyInfo.cs
-C:\Users\t-clmcca\Documents\dotnetporjects\obj\Debug\netcoreapp1.1\dotnetporjects.dll
-C:\Users\t-clmcca\Documents\dotnetporjects\obj\Debug\netcoreapp1.1\dotnetporjects.pdb
