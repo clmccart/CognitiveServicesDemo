@@ -1,0 +1,16 @@
+C:\Users\t-clmcca\Documents\dotnetporjects\bin\Debug\netcoreapp1.1\dotnetporjects.deps.json
+C:\Users\t-clmcca\Documents\dotnetporjects\bin\Debug\netcoreapp1.1\dotnetporjects.runtimeconfig.json
+C:\Users\t-clmcca\Documents\dotnetporjects\bin\Debug\netcoreapp1.1\dotnetporjects.runtimeconfig.dev.json
+C:\Users\t-clmcca\Documents\dotnetporjects\bin\Debug\netcoreapp1.1\dotnetporjects.dll
+C:\Users\t-clmcca\Documents\dotnetporjects\bin\Debug\netcoreapp1.1\dotnetporjects.pdb
+C:\Users\t-clmcca\Documents\dotnetporjects\obj\Debug\netcoreapp1.1\dotnetporjects.AssemblyInfo.cs
+C:\Users\t-clmcca\Documents\dotnetporjects\obj\Debug\netcoreapp1.1\dotnetporjects.dll
+C:\Users\t-clmcca\Documents\dotnetporjects\obj\Debug\netcoreapp1.1\dotnetporjects.pdb
+c:\Users\t-clmcca\CognitiveServicesDemo\dotnetporjects\bin\Debug\netcoreapp1.1\dotnetporjects.deps.json
+c:\Users\t-clmcca\CognitiveServicesDemo\dotnetporjects\bin\Debug\netcoreapp1.1\dotnetporjects.runtimeconfig.json
+c:\Users\t-clmcca\CognitiveServicesDemo\dotnetporjects\bin\Debug\netcoreapp1.1\dotnetporjects.runtimeconfig.dev.json
+c:\Users\t-clmcca\CognitiveServicesDemo\dotnetporjects\bin\Debug\netcoreapp1.1\dotnetporjects.dll
+c:\Users\t-clmcca\CognitiveServicesDemo\dotnetporjects\bin\Debug\netcoreapp1.1\dotnetporjects.pdb
+c:\Users\t-clmcca\CognitiveServicesDemo\dotnetporjects\obj\Debug\netcoreapp1.1\dotnetporjects.AssemblyInfo.cs
+c:\Users\t-clmcca\CognitiveServicesDemo\dotnetporjects\obj\Debug\netcoreapp1.1\dotnetporjects.dll
+c:\Users\t-clmcca\CognitiveServicesDemo\dotnetporjects\obj\Debug\netcoreapp1.1\dotnetporjects.pdb
